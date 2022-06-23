@@ -5,63 +5,42 @@
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-  <h3 align="center">TÍTULO</h3>
+  <h1 align="center">NBA CAPSTONE PROJECT</h1>
 </div>
 
 ## Sobre el proyecto
 
-El presente proyecto trata de desarrollar un modelo predictivo para poder evaluar a los jugadores que van a ser elegibles de cara a los futuros drafts en función de los datos históricos de los jugadores recopilados desde el año 1986
+El Draft de la NBA es un procedimiento de selección de jugadores por el cual las franquicias que forman parte de la liga incorporan a sus equipos jugadores menores de 23 años procedentes de las universidades estadounidenses o de ligas de otros países. 
 
-Para ello, se han scrappeado las estadísticas e informaciones de todos los jugadores a partir de 1986 a través de la página web https://www.basketball-reference.com/ y, tras un proceso de data cleaning y feature engineering, se han clusterizado los datos formando 10 grupos diferenciados de jugadores.
+El presente proyecto trata de desarrollar un modelo predictivo para poder clasificar a los jugadores que van a ser elegibles de cara a los futuros drafts en función de los datos históricos de los jugadores recopilados desde el año 1986. La idea es que los equipos de la NBA puedan usar nuestro proyecto para optimizar sus elecciones en las próximas ediciones del draft.
 
-Esta primera etapa del proyecto ha cubierto todas las fases hasta el clustering, no llegando a desarrollarse todavía el modelo predictivo
+Para ello, se han scrappeado las estadísticas e informaciones de todos los jugadores a partir de 1986 a través de la página web https://www.basketball-reference.com/ y, tras un proceso de data cleaning y feature engineering, se han clusterizado los datos formando 10 grupos diferenciados de jugadores. Esta primera etapa del proyecto ha cubierto todas las fases hasta el clustering, no llegando a desarrollarse todavía el modelo predictivo
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Sobre el repositorio
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+El repositorio refleja las cuatro etapas completadas en esta fase del proyecto: scrapping, data cleaning, feature engineering y clustering.
 
-## Requisitos previos
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
+Esperar a ver cómo queda finalmente la estructura del repo.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Información útil
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Apoyo técnico
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
 
 ## Autores
 
-ORIOL CANUDO SÁNCHEZ, DIEGO SANTOS LEITE, MIQUEL CASELLAS SULÉ, PAU GARCIA Y ADRIÀ HERNÁNDEZ CAPELL
+Oriol Canudo Sánchez, Diego Santos Leite, Miquel Casellas Sulé, Pau Garcia Sanz y Adrià Hernández Capell
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contacto
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Qué contacto ponemos?
 
 <p align="right">(<a href="#top">back to top</a>)</p>
